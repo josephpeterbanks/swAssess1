@@ -73,5 +73,5 @@ noita:mina noita:hasItemAtStart noita:waterPotion ;
 		noita:hasItem noita:polymorphinePotion .
 noita:waterPotion noita:fungalShiftsTo noita:polymorphinePotion .
 noita:polymorphinePotion noita:fungalShiftsTo noita:manaPotion .
-noita:acidPotion noita:fungalShiftsTo noita:firePotion .
+noita:acidPotion noita:fungalShiftsTo noita:polymorphinePotion .
 noita:firePotion noita:fungalShiftsTo noita:manaPotion .
