@@ -64,7 +64,8 @@ noita:hurtta noita:spawnsAt noita:mines ;
 noita:rynkkyhiisi noita:spawnsAt noita:snowyDepths ,
 				noita:theVault ;
 		noita:hasHealth "25.0"^^xsd:float .
-noita:toukka noita:spawnsAt noita:theVault ;
+noita:toukka noita:spawnsAt noita:theVault ,
+				noita:fungalCaverns .
 		noita:hasHealth "87.5"^^xsd:float .
 noita:kolmisilma rdf:type noita:Boss ;
 		noita:hasHealth "1211"^^xsd:float .
